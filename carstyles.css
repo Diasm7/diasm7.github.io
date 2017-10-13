@@ -1,0 +1,9 @@
+body { background: maroon;
+       color: gold;
+       font-size: 15pt; }
+
+body { font-family: 'Esteban', serif; }
+
+a { color:turquoise ;
+    text-decoration: underline }
+a:hover { color: forestgreen }
